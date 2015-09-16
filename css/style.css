@@ -1,0 +1,199 @@
+h1 {
+	text-align: center;
+	font-family: 'Poiret One', cursive;
+	font-size: 75px;
+	padding-top: 20px;
+	font-weight: bold;
+}
+
+h2 {
+	font-weight: bold;
+	width: 50%;
+}
+
+h3 {
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+
+p {
+	margin: 30px;
+	font-family: 'Poiret One', cursive;
+	font-weight: 400;
+	font-size: 25px;
+}
+
+ul {
+	font-family: 'Poiret One', cursive;
+	display: inline-block;
+	font-size: 20px;
+}
+
+footer {
+	width: 100%;
+	height: 125px;
+	background-color: white;
+}
+
+
+.btn {	
+margin: 25px;
+border-width: 5px;
+border-color: black;
+}
+
+.fa {
+margin: 25px;	
+margin-top: 25px;	
+font-size: 50px;
+color: black;
+}
+
+.social {
+text-align: center;
+}
+
+.glyphicon {
+display:block;
+text-align:center;
+font-size: 50px;
+}
+
+.skills {
+text-align: center;
+padding-top: 25px;
+}
+
+.database {
+width:150px;
+display: inline-block;
+}
+
+.back-end {
+width:150px;
+display: inline-block;
+}
+
+.front-end {
+width:150px;
+display: inline-block;
+}
+
+
+.pic {
+	width: 100%;
+	height: 100%;
+}
+
+.links {
+	float: right;
+	display: inline-block;
+	padding-bottom: 10px;
+	margin-left: 15px;
+	font-size: 20px;
+	color: #303030;
+}
+
+.navbar {
+	width: 100%;
+	height: 100px;
+	position: fixed;
+	padding-bottom: 25px;
+	border-radius: 0px;
+	background-color: white;
+	font-family: 'Poiret One', cursive;
+	z-index: 10000;
+}
+
+.section1 {
+	width: 100%;
+	height: 730px;
+	background-color: white;
+	padding-top: 100px;
+}
+
+.section2 {
+	width: 100%;
+	height: 630px;
+	background-color: #FF3333;
+	margin-top: -20px;
+
+}
+
+.section3 {
+	width: 100%;
+	height: 630px;
+	background-color: #303030;
+	color: white;
+	margin-top: -20px;
+}
+
+.section4 {
+	width: 100%;
+	height: 630px;
+	background-color: white;
+	margin-top: -20px;
+}
+
+.work {
+	padding-left: 30px;
+	padding-top: 25px;
+}
+
+.work1 {
+	height: 250px;
+	width: 400px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #303030;
+	margin-bottom: 15px;
+}
+
+.work2 {
+	height: 250px;
+	width: 400px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #303030;
+	margin-bottom: 15px;
+}
+
+.work3 {
+	height: 250px;
+	width: 400px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #303030;
+	margin-bottom: 15px;
+}
+
+.work4 {
+	height: 250px;
+	width: 400px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #303030;
+}
+
+.work5 {
+	height: 250px;
+	width: 400px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #303030;
+}
+
+.work6 {
+	height: 250px;
+	width: 400px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #303030;
+}
+
+
+
+
+
+
