@@ -192,6 +192,9 @@ display: inline-block;
 	border-color: #303030;
 }
 
+a:hover {
+	text-decoration: none;
+}
 
 
 
