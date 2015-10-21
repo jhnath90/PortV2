@@ -174,6 +174,7 @@ display: inline-block;
 	border-width: 5px;
 	border-style: solid;
 	border-color: #303030;
+	margin-bottom: 15px;
 }
 
 .work5 {
@@ -182,6 +183,7 @@ display: inline-block;
 	border-width: 5px;
 	border-style: solid;
 	border-color: #303030;
+	margin-bottom: 15px;
 }
 
 .work6 {
@@ -190,6 +192,16 @@ display: inline-block;
 	border-width: 5px;
 	border-style: solid;
 	border-color: #303030;
+	margin-bottom: 15px;
+}
+
+.work7 {
+	height: 250px;
+	width: 400px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #303030;
+	margin-bottom: 15px;
 }
 
 a:hover {
