@@ -5,7 +5,7 @@ $(".work1").click(function() {
 });
 
 $(".work2").click(function() {
-	alert("This is a fully functional blogg application. Built with Rails.");
+	alert("This is a fully functional blog application. Built with Rails.");
 });
 
 $(".work3").click(function() {
