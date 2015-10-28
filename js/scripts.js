@@ -25,7 +25,7 @@ $(".work6").click(function() {
 });
 
 $(".work7").click(function() {
-	alert("This is a product advertisement application. Built with Rails.");
+	alert("This is an e-commerce application, still a work in progress, once finished it will feature a user friendly payment system and shopping cart. Built with Rails.");
 });
 
 $(".work8").click(function() {
