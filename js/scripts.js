@@ -1,11 +1,11 @@
 $(function(){
 
 $(".work1").click(function() {
-	alert("This is an application for a pizza shop. Built with Rails.");
+	alert("This is an application for a pizza shop. Built with Ruby/Rails.");
 });
 
 $(".work2").click(function() {
-	alert("This is a fully functional blog application. Built with Rails.");
+	alert("This is a fully functional blog application. Built with Ruby/Rails.");
 });
 
 $(".work3").click(function() {
@@ -25,11 +25,11 @@ $(".work6").click(function() {
 });
 
 $(".work7").click(function() {
-	alert("This is an e-commerce application, still a work in progress, once finished it will feature a user friendly payment system and shopping cart. Built with Rails.");
+	alert("This is an e-commerce application, still a work in progress, once finished it will feature a user friendly payment system and shopping cart. Built with Ruby/Rails.");
 });
 
 $(".work8").click(function() {
-	alert("This is an image hosting application. Database is still a work in progress so it's not live yet. Built with Rails.");
+	alert("This is an image hosting application. Database is still a work in progress so it's not live yet. Built with Ruby/Rails.");
 });
 
 $(".work9").click(function() {
