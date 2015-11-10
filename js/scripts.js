@@ -5,7 +5,7 @@ $(".work1").click(function() {
 });
 
 $(".work2").click(function() {
-	alert("This is a fully functional blog application. Built with Ruby/Rails.");
+	alert("This is a fully functional blog application. Just sign in with a test email and pass to check it out! Built with Ruby/Rails.");
 });
 
 $(".work3").click(function() {
