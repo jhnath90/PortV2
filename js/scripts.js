@@ -36,4 +36,12 @@ $(".work9").click(function() {
 	alert("This is a restaurant finder application built by a team of two. This is not live at the moment. Built with Rails, Google API and JavaScript.");
 });
 
+$(".work10").click(function() {
+	alert("This is a sample site I made for fun. Built with bootstrap");
+});
+
+$(".work11").click(function() {
+	alert("This is a sample site I made for fun. Built with bootstrap");
+});
+
 });

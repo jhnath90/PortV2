@@ -219,6 +219,15 @@ padding-top: 25px;
 	margin-bottom: 15px;
 }
 
+.work11 {
+	height: 250px;
+	width: 400px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #303030;
+	margin-bottom: 15px;
+}
+
 a:hover {
 	text-decoration: none;
 }
