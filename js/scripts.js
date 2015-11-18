@@ -21,7 +21,7 @@ $(".work5").click(function() {
 });
 
 $(".work6").click(function() {
-	alert("This is a weather application. Built using the Wunderground API.");
+	alert("This is a weather application. Built with Ruby/Rails, utilizes the Wunderground API.");
 });
 
 $(".work7").click(function() {
@@ -33,7 +33,7 @@ $(".work8").click(function() {
 });
 
 $(".work9").click(function() {
-	alert("This is a restaurant finder application built by a team of two. This is not live at the moment. Built with Rails, Google API and JavaScript.");
+	alert("This is a restaurant finder application built by a team of two. This is not live at the moment. Built with Ruby/Rails, Google API and JavaScript.");
 });
 
 $(".work10").click(function() {
