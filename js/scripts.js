@@ -44,4 +44,8 @@ $(".work11").click(function() {
 	alert("This is a sample site I made for fun. Built with bootstrap");
 });
 
+$(".work12").click(function() {
+	alert("This is a sample application I made for fun. It's still a work in progress, definitely needs some styling. Built with Ruby/Rails");
+});
+
 });
